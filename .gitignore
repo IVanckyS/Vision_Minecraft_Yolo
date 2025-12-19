@@ -1,0 +1,17 @@
+# Entornos virtuales
+yolov11env/
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos temporales
+runs/
+datasets/
+.cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
