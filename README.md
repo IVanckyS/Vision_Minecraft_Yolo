@@ -15,6 +15,16 @@ El sistema es capaz de detectar y clasificar distintos mobs del juego, enfrentan
 * **PyTorch & OpenCV**
 * **Roboflow:** Utilizado para el análisis, selección y etiquetado de datos
 
+## Librerías y Dependencias
+
+### Core Deep Learning
+- **ultralytics** (≥8.1.0) - Framework para YOLOv8/YOLOv11 y detección de objetos
+- **torch** (≥2.0.0) - PyTorch para deep learning y redes neuronales
+- **torchvision** (≥0.15.0) - Herramientas de visión por computadora para PyTorch
+
+### Visión por Computadora
+- **opencv-python** (≥4.8.0) - OpenCV para procesamiento de imágenes y video
+
 ---
 
 ## Mobs Detectados
